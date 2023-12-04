@@ -1,7 +1,7 @@
 ### José Lucas Aqui:)
 Atualmente Estudando Analise e Desenvolvimento de Sistemas. Estudando linguagens por fora nas horas vagas.
 
-- 👨🏻‍💻 Desenvolvedor **Ful-Stack**
+- 👨🏻‍💻 Desenvolvedor **Full-Stack**
 - 🦾 Apaixonado por **IA**
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
