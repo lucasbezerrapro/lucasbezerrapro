@@ -1,16 +1,16 @@
-### Lucas Leal aqui :)
-Atualmente Cientista de Dados, criando aulas e conteúdos pro YouTube, Medium e outras redes. Curioso sobre programação de jogos e estudando Lua nas horas vagas.
+### José Lucas Aqui:)
+Atualmente Estudando Analise e Desenvolvimento de Sistemas. Estudando linguagens por fora nas horas vagas.
 
-- 👨🏻‍💻 **Professor** de Ciência de Dados na [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/)
-- 🧗🏼 Apaixonado por **escalada**
-- 📸 Também falo sobre **Ciência de Dados** no YouTube da [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao)
+- 👨🏻‍💻 Desenvolvedor **Ful-Stack**
+- 🦾 Apaixonado por **IA**
 - 🖥️ Atualmente mais focado em:
 <div style="display: inline">
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
 </div> 
 
+<!--
 ##
 
 ### Você também me encontra em:
@@ -38,5 +38,5 @@ Atualmente Cientista de Dados, criando aulas e conteúdos pro YouTube, Medium e 
     Como sair do ZERO em Ciência de Dados em Apenas UMA AULA (YouTube)
   </a>
 - <a href="https://llucaslleall.medium.com/5-dicas-que-eu-gostaria-de-ter-escutado-quando-comecei-em-ci%C3%AAncia-de-dados-721735cd83c2">
-    5 dicas que eu gostaria de ter escutado quando comecei em Ciência de Dados (Medium)
+    5 dicas que eu gostaria de ter escutado quando comecei em Ciência de Dados (Medium)-->
   </a>
