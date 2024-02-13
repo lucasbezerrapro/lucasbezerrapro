@@ -10,7 +10,6 @@ Atualmente Estudando Analise e Desenvolvimento de Sistemas. Estudando linguagens
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
 </div> 
 
-##
 
 ### Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/lucasbezerraproo/">
@@ -19,7 +18,7 @@ Atualmente Estudando Analise e Desenvolvimento de Sistemas. Estudando linguagens
 &nbsp;<a href="https://llucaslleall.medium.com/">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
-<!--
+
 &nbsp;<a href="https://www.instagram.com/_llucaslleall/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
@@ -39,7 +38,7 @@ Atualmente Estudando Analise e Desenvolvimento de Sistemas. Estudando linguagens
   </a>
 - <a href="https://llucaslleall.medium.com/5-dicas-que-eu-gostaria-de-ter-escutado-quando-comecei-em-ci%C3%AAncia-de-dados-721735cd83c2">
     5 dicas que eu gostaria de ter escutado quando comecei em Ciência de Dados (Medium)
-  </a>-->
+  </a>
 
 <hr />
 
