@@ -10,11 +10,6 @@ Atualmente Estudando Analise e Desenvolvimento de Sistemas. Estudando linguagens
   &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />&nbsp;&nbsp;
 </div> 
 
-<hr />
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasbezerrapro&bg_color=050505&color=7c84ee&line=f5f4f4&point=2fbbe9&area=true&hide_border=true&locale=pt-br)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 ##
 
 ### Você também me encontra em:
@@ -43,5 +38,10 @@ Atualmente Estudando Analise e Desenvolvimento de Sistemas. Estudando linguagens
     Como sair do ZERO em Ciência de Dados em Apenas UMA AULA (YouTube)
   </a>
 - <a href="https://llucaslleall.medium.com/5-dicas-que-eu-gostaria-de-ter-escutado-quando-comecei-em-ci%C3%AAncia-de-dados-721735cd83c2">
-    5 dicas que eu gostaria de ter escutado quando comecei em Ciência de Dados (Medium)-->
-  </a>
+    5 dicas que eu gostaria de ter escutado quando comecei em Ciência de Dados (Medium)
+  </a>-->
+
+<hr />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasbezerrapro&bg_color=050505&color=7c84ee&line=f5f4f4&point=2fbbe9&area=true&hide_border=true&locale=pt-br)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
