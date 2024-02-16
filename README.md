@@ -15,17 +15,17 @@ Atualmente Estudando Analise e Desenvolvimento de Sistemas. Estudando linguagens
 &nbsp;<a href="https://www.linkedin.com/in/lucasbezerraproo/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://llucaslleall.medium.com/">
+&nbsp;<a href="https://medium.com/@lucasbezerraproo">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
 </a>&nbsp;
 
-&nbsp;<a href="https://www.instagram.com/_llucaslleall/">
+&nbsp;<a href="https://www.instagram.com/lucasbezerrapro">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.youtube.com/@HashtagProgramacao">
+&nbsp;<a href="https://www.youtube.com/">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>&nbsp;
-
+<!--
 #### E pode aproveitar pra ver alguns conteúdos que eu criei:
 - <a href="https://github.com/lucaslealx/HousePrices/tree/main#readme">
     Projeto Kaggle: prevendo o preço das casas (House Prices)
@@ -41,6 +41,7 @@ Atualmente Estudando Analise e Desenvolvimento de Sistemas. Estudando linguagens
   </a>
 
 <hr />
+-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasbezerrapro&bg_color=050505&color=7c84ee&line=f5f4f4&point=2fbbe9&area=true&hide_border=true&locale=pt-br)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
